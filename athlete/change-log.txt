@@ -1,0 +1,190 @@
+----- v1.0 ------------
+2015/04/14: Initial Release
+----- v1.1 ------------
+2015/04/15: Fixed: Some addons can't edit in Visual Composer editor
+2015/04/15: Removed: Some background images from template css, using visual composer row backgound images instead of them
+2015/04/15: Upgraded & Fixed: more smooth scrolling in mobile devices
+2015/04/15: Added: Under Construction Page
+2015/04/15: Added: Countdown timer & Layers Effect addon for Visual Composer
+
+----- v1.2 ------------
+2015/04/16: Fixed: import demo data problems
+2015/04/16: Fixed: misc bugs
+2015/04/17: Upgraded: Multilevel Drop Down Navigation
+2015/04/18: Upgraded: RTL Language
+2015/04/18: Upgraded: Visual Composer V4.4.3
+----- v1.2.1 ------------
+2015/04/24: Fixed: blank page error with php 5.2
+2015/04/24: Fixed: eventon plugin style
+2015/04/24: Security Update: class-tgm-plugin-activation: escape urls for add_query_arg calls
+2015/04/24: Upgraded: Woocommerce v2.3.8
+2015/04/24: Upgraded: Masterslider v2.12.2
+2015/04/25: Upgraded: Visual Composer V4.4.4
+----- v1.3.0 ------------
+2015/05/06: Fixed: Error when disable EventOn plugin
+2015/05/06: Fixed: Duplicate heading Eventon detail page
+2015/05/13: Upgraded: EventOn V2.3.1, Visual Composer V4.5.1, Master Slider V2.14.2
+2015/05/13: Hardly edit page with Visual Composer Frontend
+2015/05/14: Fixed: issue with bulk installing pre-packaged plugins
+2015/05/14: Fixed: issue with installing ap_background table 
+2015/05/14: Upgraded: Stable light version
+----- v2.0.0 ------------
+2015/05/21: Upgraded: IW Visual Composer Addons plugin
+2015/05/21: Upgraded: Typography Options with Google Fonts
+2015/05/21: Upgraded: Visual Composer V4.5.2, Master Slider V2.15.0
+2015/05/21: Upgraded: Page heading background for each page/post
+2015/05/22: Added troubleshooting: Woocommerce jquery cookie fix 
+2015/05/22: Upgraded: Fully supported language and WPML
+2015/05/22: Upgraded: Retina supported
+
+----- v2.0.1 ------------
+2015/05/25: Fixed: Can't load google font in construction page & turn off page heading
+2015/05/25: Fixed: Iw-Courses sometimes can't load theme
+2015/05/25: Added: Format date setting for countdown timer
+
+----- v2.1.0 ------------
+2015/05/27: Fixed: Missing trainer icon & prolbem with iw course importing data
+2015/05/31: Fixed bug: css3 effect on safari browser,"Proceed to checkout" button bg color
+2015/05/31: Fixed bug: can't select icon in info banner addon
+2015/05/31: Upgraded: EventOn V2.3.2
+2015/05/31: Added: Logo margin option & limit height when user uploads logo image too big
+2015/05/31: Added: Permalink settings for IW Courses
+
+----- v3.0 ------------
+2015/06/06: Missed: Documentation & PSD Package in the previous update
+2015/06/06: Improved importing demo tool to prevent the blank error
+2015/06/06: Upgraded: Master Slider v2.16.0
+2015/06/06: Upgraded: Maintenance mode
+
+----- v2.3.0 ------------
+2015/06/25: Fixed: CSS Bug
+2015/06/25: Added: ordering for iw courses, link for "info item" shortcode
+2015/06/25: Upgraded: Visual Composer V4.5.3, Master Slider v2.17.0, EventOn v2.3.5
+2015/06/25: Upgraded: Child-theme v1.1
+
+----- v3.0 ------------
+2015/09/8: Fixed: Timetable issues
+2015/09/8: Fixed: Misc style errors
+2015/09/8: Fixed: IW Courses saving issues
+2015/09/8: Fixed: Parallax gallery error on touch screen
+2015/09/8: Fixed: Mobile responsive
+2015/09/8: Fixed: Disable sticky menu bug
+2015/09/8: Fixed: Frontend editor problem (!Important)
+2015/09/8: Added: Fully breadcrumb for IW Courses
+2015/09/8: Added: Multiple teacher/trainer selection for IW Courses
+2015/09/8: Upgraded: WOOCommerce 2.4.6
+2015/09/8: Upgraded: Wordpress 4.3
+2015/09/8: Upgraded: Eventon 2.3.9
+2015/09/8: Upgraded: Master Slider 2.20.1
+2015/09/8: Upgraded: Import demo content tool (Big changed)
+2015/09/8: Upgraded: Visual Composer v4.7
+----- v3.1 ------------
+2015/10/09: Upgraded: Visual Composer 4.7.4
+
+2015/10/09: Upgraded: Master Slider 2.20.4
+
+2015/10/09: Upgraded: Woocommerce 2.4.7
+
+2015/10/09: Fixed: AP Background conflicts with CDN Media
+
+2015/10/09: Added: Style for FulCalendar widgets
+----- v3.1.1 ------------
+2015/10/13: Fixed: Import demo data error
+----- v3.2 ------------
+2015/12/09: Upgraded: Woocommerce 2.4.10
+2015/12/09: Upgraded: Visual Composer 4.9
+2015/12/09: Upgraded: Master Slider 2.25.0
+2015/12/09: Upgraded: Eventon 2.3.12
+2015/12/09: Fixed: Sendmail issues
+2015/12/09: Fixed: History, tabs shortcode issues
+2015/12/09: Fixed: Onepage menu issue
+2015/12/09: Changed: Format date of event table
+2015/12/09: Allowed: Override layout in child-theme
+----- v3.2.1 ------------
+2016/01/04: Fixed: Mobile menu clicking issue
+2016/01/04: Fixed: Product slider next back buttons issue
+2016/01/04: Added: WPML config files
+2016/01/04: Updated: Master Slider 2.25.4, Visual Composer 4.9.1, Eventon 2.3.15
+
+----- v3.2.2  (2016/03/03) ------------
+Fixed: Misc bugs
+Updated: Master Slider 2.28.1, Visual Composer 4.10, Woocommerce 2.5
+Added: Email subscription form in footer
+Added: Email subscription form in footer
+Added: "Receiver Email" in Contact Form setting
+Added: Sending BBC email to admin (Take This Course form)
+Added: Allows to change menu in page option
+Added: Allows to display multiple events for each day in timetable
+
+----- v3.2.3  (2016/03/09) ------------
+Fixed: Error when installing the theme using justhost.com hosting
+Fixed: Events don't link to individual event post(eventon widgets)
+Removed: Custom links in "class details" page
+Updated: Master Slider 2.28.3
+----- v3.3.0  (2016/04/14) ------------
+Updated: Master Slider 2.29.0
+Updated: Visual Composer 4.11.2
+Updated: Wordpress 4.5
+Updated: WMPL Config
+Added: Binding Page Options for post items
+Added: Cart total number
+Fixed: Misc bugs
+
+----- v3.3.1  (2016/04/17) ------------
+Fixed: Cart total number causes the master slider not working properly
+Fixed: Loading more courses button issue
+
+----- v3.3.2  (2016/04/22) ------------
+Updated: Visual Composer 4.11.2.1
+
+----- v3.3.5  (2016/06/13) ------------
+- Updated: Visual Composer 4.12, EventOn 2.3.23, EventOn Full Calendar 1.1.1, EventOn Single Event 1.1.2
+- Added: Importing data system requirements
+- Fixed: Mobile caching & Resposive issues
+- Fixed: Cutting string issue on Arabic language
+- Fixed: Getting images from facebook bug
+- Fixed: Page background setting
+
+----- v3.3.6  (2016/07/16) ------------
+- Removed: EventOn plugin & Addons
+- Fixed: Shipping form not show
+- Updated: Font Awesome & woocommerce
+- Fixed: Hide past events issue
+
+----- v3.3.7  (2016/08/09) ------------
+- Fixed: Responsive issue
+- Upgrade: Woocommerce layout
+- Added: Extra field sorting
+- Added: placeholder for safari & mobile browser
+
+----- v3.3.8  (2016/09/13) ------------
+- Updated: Masterslider v3.0.4
+
+----- v3.3.9  (2016/09/13) ------------
+- Updated Visual Composer 4.12.1
+- Added EventOn plugin back
+- Fixed "clear variables" on product quickviews
+
+----- v3.3.10  (2016/10/27) ------------
+- Updated EventOn v2.4.9
+
+----- v3.3.11  (2016/12/13) ------------
+- Updated EventOn v2.4.10
+- Updated Visual Composer 5.0.1
+- Updated Master Slider 3.1.1
+- Fixed child theme style
+- Added Captcha for contact form
+
+--- v3.4.0 (2016/04/18) ----------
+- Updated EventON v2.5.1
+- Updated Visual Composer v5.1.1
+- Updated Master Slider v3.1.3
+- Fixed problem for Woocommerce 3.0
+
+--- v3.4.1 (2016/04/21) ----------
+-Fixed problem on watermark systom on iw_coursers plugin
+-Fixed problem with page header
+
+--- v3.4.2 (2016/05/17) ----------
+-Fixed missing $wpdb in couser plugin
+-Fixed the IW Visual Composer Addons plugin not working with WooCommerce
